@@ -117,6 +117,9 @@ $ terraform plan
 
 $ terraform apply  
 
+$ terraform destroy
+This last destroy command will destroy what we have created. But first we need to empty the bucket.
+
 Now the bucket has been created.
 
 Upload the image in the add files section and give the public access permission.
